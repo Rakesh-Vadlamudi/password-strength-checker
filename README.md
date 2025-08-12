@@ -19,8 +19,10 @@ A Python program that checks the strength of a password based on:
 
    ##Example Output
 Enter password: password123
+
 Weak: Password is too common
 
 Enter password: StrongP@ssw0rd!
+
 Strong: This password is secure.
    
