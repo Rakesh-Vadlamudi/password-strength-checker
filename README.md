@@ -9,7 +9,7 @@ A Python program that checks the strength of a password based on:
 - Special characters
 - Comparison against a list of 133 common weak passwords
 
-- ## How to Run the Script
+## How to Run the Script
 1. Make sure you have **Python 3** installed.
 2. Download or clone this repository.
 3. Open a terminal/command prompt in the project folder.
